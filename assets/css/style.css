@@ -1,0 +1,502 @@
+	h1 {
+		text-align: center;
+		font-size: 48px;
+		border-bottom: 0px dashed #aaa;
+		color: red;
+		margin: -15px 0px 0px 0px;
+
+	}
+
+	h1 span {
+		font-size: 80px;
+		color: blue;
+		font-family: candara;
+		vertical-align: middle;
+	}
+
+	p {
+		font-family: Edwardian Script ITC;
+		font-size: 26px;
+	    text-align: center;
+	    width: 977px;
+	    margin: 10px auto;
+	}   
+
+	/*Bangladesh*/
+
+	.green {
+		width: 500px;
+		height: 250px;
+		background-color: green;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px black;
+
+
+	}
+	.green .red {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		background-color: red;
+		margin: 30px auto;
+	}
+
+	.bd h2 {
+		color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 380px;
+
+	}
+	.bd p {
+		overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+
+	}
+
+	/*Turkey*/
+
+	.turkey {
+		width: 500px;
+		height: 250px;
+		background-color: red;
+		margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	}
+
+	.turkey img {
+		width: 175px;
+		margin: 37px 0px 0px 65px;
+	}
+
+	.tu h2 {
+		color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 215px;
+
+	}
+	.tu p {
+		overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+
+	}
+
+	/*Pakistan*/
+
+
+	.pakg {
+		width: 450px;
+		height: 250px;
+		background-color: green;
+		border-left: 50px solid white;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px black;
+	}
+	.pakg img {
+		width: 175px;
+		margin: 37px 0px 0px 65px;
+	}
+
+	.pak h2 {
+		color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 270px;
+
+	}
+	.pak p {
+		overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+
+	}
+
+
+	/*Maldiv*/
+
+
+	.maldiv {
+		width: 250px;
+		height: 150px;
+		background-color: green;
+		border-top: 50px solid red;
+		border-right: 200px solid red;
+		border-bottom: 50px solid red;
+		border-left: 50px solid red;
+		margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	}
+
+	.maldiv img{
+		width: 130px;
+		margin: 11px 0px 0px 55px;
+
+	}
+	.mald h2{
+		color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 215px;
+	}
+	.mald p{
+		overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Azarbaizan*/
+
+	.azfl {
+		width: 500px;
+		height: 83px;
+		background-color: red;
+		border-top: 83px solid skyblue;
+		border-bottom: 83px solid green;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px black;
+	}
+
+	.azfl img {
+		width: 80px;
+		margin: 0px 0px 0px 200px;
+	}
+	.azri h2 {
+		color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 350px;
+	}
+	.azri p {
+		overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Bolgeria*/
+
+	.bolfl {
+		width: 500px;
+		height: 83px;
+		background-color:green;
+		border-top: 83px solid white;
+		border-bottom: 83px solid red;
+
+		margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	}
+
+	.bol h2{
+		color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 250px;
+	}
+
+	.bol p{
+		overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Gambia*/
+
+	.gamfl1 {
+		width: 500px;
+		height: 80px;
+		background-color: red;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	}
+	.gamfl2 {
+		width: 500px;
+		height: 80px;
+		background-color: blue;
+		margin: 5px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	}
+	.gamfl3 {
+		width: 500px;
+		height: 80px;
+		background-color: green;
+		margin: 5px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	}
+
+	.gam h2 {
+	    color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 250px;
+	}
+	.gam p {
+		overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Ghana*/
+
+	.ghanafl {
+		width: 500px;
+		height: 83px;
+		background-color:yellow;
+		border-top: 83px solid red;
+		border-bottom: 83px solid green;
+	    margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	}
+	.ghanafl img {
+		width: 100px;
+		margin: -8px 0px 0px 200px;
+	}
+	.ghana h2{
+		color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 200px;
+
+	}
+	.ghana p {
+		overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Indonesia*/
+
+
+	.indofl {
+		width: 500px;
+		height: 125px;
+		background-color: red;
+		border-bottom: 125px solid white;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	}
+
+	.indo h2 {
+		 color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 300px;
+	}
+	.indo p {
+		overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Ireland*/
+
+	.irefl {
+		width: 170px;
+		height: 250px;
+		background-color:white;
+		border-left: 170px solid green;
+		border-right: 170px solid orange;
+	    margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	}
+	.ire h2 {
+		color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 250px;
+	}
+	.ire p {
+		overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Japan*/
+
+	.jpnfl1 {
+		width: 500px;
+		height: 250px;
+		background-color: white;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	}
+	.jpnfl2 {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		background-color: red;
+		margin: 30px auto;
+	}
+	.jpn h2{
+		 color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 200px;
+	}
+	.jpn p {
+		overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Malta*/
+
+	.maltafl {
+		width: 250px;
+		height: 250px;
+		background-color:white;
+		border-right: 250px solid red;
+	    margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	}
+	.maltafl img {
+		width: 70px;
+		margin: 10px 0px 0px 0px;
+	}
+	.malta h2 {
+		color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 180px;
+	}
+	.malta p {
+		overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+	}
+
+	/*Slovakia*/
+
+	.slovfl {
+		width: 500px;
+		height: 83px;
+		background-color:blue;
+		border-top: 83px solid white;
+		border-bottom: 83px solid red;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	}
+	.slovfl img {
+		width: 92px;
+		margin: -20px 0px 0px 200px;
+	}
+	 .slov h2 {
+	 	color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 270px;
+	 }
+	 .slov p {
+	 	overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+	 }
+
+	 /*Afganistan*/
+
+	 .afganfl {
+	 	width: 170px;
+		height: 250px;
+		background-color:red;
+		border-left: 170px solid black;
+		border-right: 170px solid green;
+	    margin: 60px 0px 10px 800px;
+		box-shadow: 2px 2px 9px black;
+	 }
+
+	 .afganfl img {
+	 	width:170px;
+	    margin: 18px 0px 0px 0px;
+	 }
+	 .afgan h2 {
+	 	color: #515151;
+		margin: -250px 0px 0px 60px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 326px;
+	 }
+	 .afgan p {
+	 	overflow: hidden;
+		margin: 5px 0px 10px 60px;
+		width: 650px;
+		text-align: justify;
+	 }
+
+	 /*Botswana*/
+
+	 .bwfl1 {
+	 	width: 500px;
+		height: 85px;
+		background-color: skyblue;
+		margin: 60px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	 }
+	 .bwfl2 {
+	 	width: 500px;
+		height: 50px;
+		background-color: black;
+		margin: 10px 0px 0px 60px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	 }
+	 .bwfl3 {
+	 	width: 500px;
+		height: 85px;
+		background-color: skyblue;
+		margin: 10px 0px 0px 60px;
+		padding-bottom: 10px;
+		overflow: hidden;
+		box-shadow: 2px 2px 9px gray;
+	 }
+	 .bw h2 {
+	     color: #515151;
+		margin: -256px 0px 0px 650px;
+		font-size: 70px;
+		border-bottom: 4px solid #db4b4b;
+		width: 290px;
+	 }
+	 .bw p {
+	 	overflow: hidden;
+		margin: 20px 60px 0px 650px;
+		width: 650px;
+		text-align: justify;
+		padding-bottom: 10px;
+	 }
+	 }
