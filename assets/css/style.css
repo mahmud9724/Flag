@@ -1,8 +1,11 @@
+	title img {
+		border-radius: 50%;
+	}
 	h1 {
 		text-align: center;
 		font-size: 48px;
 		border-bottom: 0px dashed #aaa;
-		color: red;
+		color: rgb(255, 93, 93);
 		margin: -15px 0px 0px 0px;
 
 	}
